@@ -26,5 +26,7 @@ except:
 
 ## Output
 <img width="590" height="139" alt="image" src="https://github.com/user-attachments/assets/9fe3fbe8-7f0b-486b-995f-63ba35418a91" />
+
+
 ## Result
 Thus, the program has been successfully executed.
